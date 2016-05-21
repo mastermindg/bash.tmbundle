@@ -1,1 +1,1 @@
-# bash.tmbundle
+# TextMate Bundle for Bash
